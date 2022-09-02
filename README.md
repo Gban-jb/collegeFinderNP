@@ -1,2 +1,29 @@
 # collegeFinderNP
-This is our project for OIthon.
+<!DOCTYPE html>
+<html >
+<head>
+    <title>collegefinder.com.np</title>
+</head>
+<body>
+    <button> Universities  </button>
+    <button>
+        Programmes
+    </button>
+    <button>
+        Scholarships
+    </button>
+    <button>
+        Location
+    </button>
+
+    <button>
+        Search
+    </button>
+        <p>
+
+    </p>
+
+
+    
+</body>
+</html>
