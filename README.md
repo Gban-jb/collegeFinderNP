@@ -1,29 +1,7 @@
-# collegeFinderNP
-<!DOCTYPE html>
-<html >
-<head>
-    <title>collegefinder.com.np</title>
-</head>
-<body>
-    <button> Universities  </button>
-    <button>
-        Programmes
-    </button>
-    <button>
-        Scholarships
-    </button>
-    <button>
-        Location
-    </button>
+# reactmultipage
 
-    <button>
-        Search
-    </button>
-        <p>
+****UPDATE 2-SEP-2022
+The API is not working anymore because the Railway Server has it's limitations and we reached that limitation and we don't have paid subscription of it. 
+But I will surely fix it soon and update the URL link ok. 
 
-    </p>
-
-
-    
-</body>
-</html>
+Thanks
